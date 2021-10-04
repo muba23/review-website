@@ -18,6 +18,7 @@ const About = () => {
                 </p>
             </div>
         </div>
+        {/* Teachers information  */}
         <section className="about-teachers">
             <div className="container">
                 <div className="row">

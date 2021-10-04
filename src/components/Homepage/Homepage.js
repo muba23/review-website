@@ -1,6 +1,6 @@
 import ReactDOM from 'react-dom'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCoffee, faQuoteLeft, faQuoteRight } from '@fortawesome/free-solid-svg-icons'
+import { faQuoteLeft, faQuoteRight } from '@fortawesome/free-solid-svg-icons'
 import React, { useEffect, useState } from 'react';
 import { Card, Col, Row } from 'react-bootstrap';
 import SingleService from '../SingleService/SingleService';
@@ -23,7 +23,8 @@ const Homepage = () => {
             <h1 style={{color:"orange"}}>Our Services</h1>
             <p>Our university provides a wide range of services and resources to assist you in attaining your educational goals.We strive to give our students the best experience possible—which is why we offer a wide range of services to support you from enrollment through graduation. Whether you need career guidance, veteran services, tutoring information, or help adjusting to our rigorous one-course-per-month format, our knowledgeable and caring staff is readily available to assist you. We understand the demands of student life, and we’ll do everything possible to ensure a smooth and rewarding journey.</p>
           </div>
-        <div className="home-container">
+          {/* To show the 4 services  */}
+        <div className="home-container"> 
           <Row xs={1} md={2} className="g-4">
                {
                   services.map(service => <SingleService
@@ -33,6 +34,7 @@ const Homepage = () => {
                }
           </Row>
          </div>
+         {/* saying of students  */}
          <div className="sayings">
              <h1 style={{color:"black"}}>What Our Students Say</h1>
              <div style={{width:"50%"},{textAlign:"center"}}>

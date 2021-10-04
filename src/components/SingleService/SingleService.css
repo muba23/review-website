@@ -1,11 +1,5 @@
-.cards{
-    /* margin-right: 2px; */
-}
 .card{
     border-radius: 30px;
-    /* margin: 10px; */
-    /* padding: 10px; */
-    /* width: 80%; */
     box-shadow: 0 24px 18px 0 rgba(31, 29, 29, 0.2);
 
 }
