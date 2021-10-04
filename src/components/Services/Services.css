@@ -18,3 +18,7 @@
     float: none;
     position: static;
 }
+
+.services-container{
+    padding-right: 100px;
+}

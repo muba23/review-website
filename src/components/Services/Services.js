@@ -13,7 +13,9 @@ const Services = () => {
     },[]);
     return (
         <div className="cards-conatiner">
-            <div className="">
+            <h2 style={{textAlign:"center"}}>Our Services</h2>
+            <p style={{textAlign:"center"}}>Our services may include academic support services, academic advising, admissions, alcohol and drug education programs, career services, campus ministries, community service and service learning, counseling, financial aid, food services, fraternities and sororities, health centers, housing and residence life.</p>
+            <div className="services-container">
           <Row xs={1} md={1} className="g-4">
                {
                   services.map(service => <SingleService

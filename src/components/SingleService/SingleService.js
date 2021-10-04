@@ -9,7 +9,7 @@ const SingleService = (props) => {
             <Col>
                 <Card className="card">
                     <Card.Img variant="top" 
-                     className="image" src={img} fluid />
+                     className="image" src={img} />
                     <Card.Body>
                     <Card.Title>{name}</Card.Title>
                     <Card.Text>
