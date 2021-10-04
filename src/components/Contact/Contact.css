@@ -1,0 +1,19 @@
+.contact{
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.form-container{
+    margin: auto;
+    width: 75%;
+    background-color: rgb(243, 238, 231);
+    padding: 30px;
+    margin-bottom: 20px;
+}
+.submit-btn{
+    background-color: rgb(255, 145, 0);
+    border: 1px solid rgb(255, 145, 0);
+    border-radius: 5px;
+    padding: 5px 10px 5px 10px;
+    margin-bottom: 30px;
+}

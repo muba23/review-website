@@ -1,0 +1,14 @@
+.home{
+    padding: 20px;
+}
+.cards{
+    display: flex;
+    padding: 10px ;
+    width: 50%;
+    padding-left: 120px;
+    padding-bottom: 40px;
+}
+.sayings{
+    text-align: center;
+    background-color: rgb(241, 233, 217);
+}

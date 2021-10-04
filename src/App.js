@@ -8,6 +8,7 @@ import Homepage from './components/Homepage/Homepage';
 import About from './components/About/About';
 import Services from './components/Services/Services';
 import NotFound from './components/NotFound/NotFound';
+import Contact from './components/Contact/Contact';
 
 function App() {
   return (
@@ -17,7 +18,9 @@ function App() {
         <Header></Header>
         <Switch>
         <Route exact path="/">
-            <Homepage></Homepage>
+            <Homepage>
+              
+            </Homepage>
           </Route>
           <Route exact path="/home">
             <Homepage></Homepage>
@@ -27,6 +30,9 @@ function App() {
           </Route>
           <Route exact path="/services">
             <Services></Services>
+          </Route>
+          <Route exact path="/contact">
+              <Contact></Contact>
           </Route>
           <Route exact path="/*">
             <NotFound></NotFound>

@@ -1,0 +1,48 @@
+.about{
+    margin: 40px;
+    margin-bottom: 20px;
+    background-image: url('https://demo.web3canvas.com/themeforest/unisco/images/welcome-img.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+}
+
+.about-who{
+    text-align:start;
+    background: rgba(0, 0, 0, 0.671); 
+    color: #fffefe;
+    padding: 20px;
+    padding-top: 40px;
+}
+.about-who h1{
+    color: rgb(245, 201, 6);
+}
+.about-activities{
+    text-align: end;
+    background: rgba(0, 0, 0, 0.671); 
+    color: #fffefe;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+.about-activities h1{
+    color: rgb(245, 201, 6);
+}
+.about-activities-para{
+    text-align: end;
+    margin-bottom: 60px;
+}
+.about-teachers{
+    text-align: center;
+    background-color: none;
+}
+.about-teachers-block{
+    display: block;
+    background-color: rgb(233, 228, 225);
+    margin: auto;
+    border-radius: 5px;
+}
+.about-teachers-block .teachers-description{
+    /* margin-left: 5%; */
+    /* padding: 25px 15px 0px;0px 8 */
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+}

@@ -1,0 +1,30 @@
+[
+    {
+      "_id": "615a935752007f4e133feb95",
+      "name": "Career counselling ",
+      "type": "<ReferenceError: type is not defined>",
+      "details": "Career counselling is especially useful if you aren’t quite sure which direction to head in. Students will get proper direction from experts of our university.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd7QJCajYJuyllTi3ieLruXcyj5jd8tSOkqQ&usqp=CAU"
+    },
+    {
+      "_id": "615a9357138673f508d9b4e4",
+      "name": "Campus healthcare",
+      "type": "<ReferenceError: type is not defined>",
+      "details": "We offer a student medical service on campus with flexible appointments, telephone consultations and healthcare professionals dedicated to assisting students.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCP4Y3BLpezv9TdUkW8NTyf08Y8qjpy-kavg&usqp=CAU"
+    },
+    {
+      "_id": "615a935760351a29f9eb1be4",
+      "name": "Lost and Found",
+      "type": "<ReferenceError: type is not defined>",
+      "details": "To help you maximize your chances of success, UvA offers networking workshops teaching students how to approach professionals both online and offline,",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclgzfumC-fqEVlZ2GZG8HA29iIVbCZCh0mw&usqp=CAU"
+    },
+    {
+      "_id": "615a9357bf450e1d3e8c35f2",
+      "name": "Student counsellors",
+      "type": "<ReferenceError: type is not defined>",
+      "details": "Student counsellors can help you cope with any aspect of student life, whether you’re concerned about exams, finances, health issues, homesickness or anything else.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXVDFNozb1Foh6h8QPveU0TKATlU1E5Ck9rg&usqp=CAU"
+    }
+]

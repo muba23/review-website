@@ -5,6 +5,7 @@
    height: 400px;
    background-size: cover;
    position: relative;
+   text-align: center;
 }
 .header{
     display: flex;
@@ -15,7 +16,7 @@ h3{
 }
 .navbar{
     margin-top: 50px;
-    margin-left: 40px;
+    margin-left: 20px;
 }
 .navlink{
     bottom: 0;
@@ -29,4 +30,8 @@ h3{
     font-weight:700;
     color: #cccccc;
     margin-right: 50px;  */
+}
+
+.navlink:hover{
+    color: rgb(236, 162, 22);
 }

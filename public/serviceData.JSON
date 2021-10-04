@@ -1,0 +1,86 @@
+[
+    {
+      "_id": "615a935752007f4e133feb95",
+      "name": "Career counselling ",
+      "type": "<ReferenceError: type is not defined>",
+      "details": "Career counselling is especially useful if you aren’t quite sure which direction to head in. Students will get proper direction from experts of our university.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd7QJCajYJuyllTi3ieLruXcyj5jd8tSOkqQ&usqp=CAU"
+    },
+    {
+      "_id": "615a9357138673f508d9b4e4",
+      "name": "Campus healthcare",
+      "type": "<ReferenceError: type is not defined>",
+      "details": "We offer a student medical service on campus with flexible appointments, telephone consultations and healthcare professionals dedicated to assisting students.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCP4Y3BLpezv9TdUkW8NTyf08Y8qjpy-kavg&usqp=CAU"
+    },
+    {
+      "_id": "615a935760351a29f9eb1be4",
+      "name": "Lost and Found",
+      "type": "<ReferenceError: type is not defined>",
+      "details": "To help you maximize your chances of success, UvA offers networking workshops teaching students how to approach professionals both online and offline,",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclgzfumC-fqEVlZ2GZG8HA29iIVbCZCh0mw&usqp=CAU"
+    },
+    {
+      "_id": "615a9357bf450e1d3e8c35f2",
+      "name": "Student counsellors",
+      "type": "<ReferenceError: type is not defined>",
+      "details": "Student counsellors can help you cope with any aspect of student life, whether you’re concerned about exams, finances, health issues, homesickness or anything else.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXVDFNozb1Foh6h8QPveU0TKATlU1E5Ck9rg&usqp=CAU"
+    },
+    {
+      "_id": "615a935757dfbd7d3fb59819",
+      "name": "Language center",
+      "type": "<ReferenceError: type is not defined>",
+      "details": "Having an extra language on your CV will improve your employability and increase your chances of finding work after you graduate.",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0UHADMvjOYgLBUBL85Sed2Y_luqea_ZyN-Q&usqp=CAU"
+    },
+    {
+      "_id": "615a935785ff28254e84eeb3",
+      "name": "Student gym",
+      "type": "<ReferenceError: type is not defined>",
+      "details": "UvA’s gym offers individual training, classes, a fitness test, and has centers across UvA’s various campus locations.",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk4g1kT7TINRYkk_tuUSdq1XILLDNrlX-mtA&usqp=CAU"
+    },
+    {
+      "_id": "615a9357ef14521a85909ad0",
+      "name": "Study training and workshops",
+      "type": "<ReferenceError: type is not defined>",
+      "details": "UvA’s ‘study skills workshop for international master’s students’ is specifically designed to teach international postgraduate students",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAQO3626sIEmjsTxRjsasRDljpDt-Nd7ZQ8hWzRQE3QU0TrFDg3PNgsJi2HYsRvuX5vfQ&usqp=CAU"
+    },
+    {
+      "_id": "615a93573dd2805f4a55e53a",
+      "name": "Student Financial Services",
+      "type": "<ReferenceError: type is not defined>",
+      "details": "There are a variety of types of financial assistance that help students pay for college, including loans, scholarships and grants. you and after your educational experience at NMC.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIoR3yIXdTi0m-jXIrmp4FnLNU9RUscnAF8UNTjR2V64VRRrZMD5CDgtJUa6mpHetNLsg&usqp=CAU"
+    },
+    {
+      "_id": "615a93579c97e2923349b7f7",
+      "name": "Financial Aid",
+      "type": "<ReferenceError: type is not defined>",
+      "details": "NMC’s financial aid programs are designed to help students pay their educational expenses. Financial aid is meant student and family payment responsibilities.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUe29A-fWat59iRXl-hLTSaQv93TT8BHKl2w&usqp=CAU"
+    },
+    {
+      "_id": "615a9357ad749e739b6b8c3f",
+      "name": "Academic Advising",
+      "type": "<ReferenceError: type is not defined>",
+      "details": "The Academic & Career Advising Center is here to help you from the beginning of your journey all the way through graduation, certification, or whatever your goal may be.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVsqNftdI6Ahcjalgd_JAfdVboAYr6lKReTw&usqp=CAU"
+    },
+    {
+      "_id": "615a9357b601fdf0038cd28e",
+      "name": "Networking training and events",
+      "type": "<ReferenceError: type is not defined>",
+      "details": "Whether you are new to the financial aid process or you've done it all before, we hope you find everything you and after your educational experience at NMC.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOzcZbpOA5NsQqfN8r2iU7KQhMmd2ekLingw&usqp=CAU"
+    },
+    {
+      "_id": "615a93575f1e882201ea2412",
+      "name": "Canteen",
+      "type": "<ReferenceError: type is not defined>",
+      "details": "There are a variety of types of financial assistance that help students pay for college,before, we hope you find everything you and after your including loans, scholarships and grants.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTipOnsrJdTT9BInj8rfETEsqATeplYOuXaQQ&usqp=CAU"
+    }
+  ]
